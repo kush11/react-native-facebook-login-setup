@@ -5,7 +5,7 @@ Link: https://github.com/facebook/react-native-fbsdk
 Link: https://developers.facebook.com/
 
 # Video tutorial link
-Link: Video tutorial link
+Link: https://youtu.be/6KWL50x98MY
 # Change to string.xml
 ``<resources>
     ....
